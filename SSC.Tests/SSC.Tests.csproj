@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{271DF9F9-E2F1-4CB6-B5FA-D3797B0F2445}</ProjectGuid>
+    <ProjectGuid>{16ACFCA3-FA3F-4E69-B74D-83ED0A4BCF85}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SSC.Tests</RootNamespace>
@@ -107,7 +107,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SSC\SSC.csproj">
-      <Project>{0D04B738-34DA-4B39-8235-D60A8285BD48}</Project>
+      <Project>{CAAEC084-F13C-4028-96DC-2D86224979F3}</Project>
       <Name>SSC</Name>
     </ProjectReference>
   </ItemGroup>
